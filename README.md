@@ -12,7 +12,7 @@ The purpose of this analysis was to better understand ride share data and how it
     * Had the highest number of rides (1,625), drivers (2,405), and total fares ($39,854.38).
     * Had the lowest average fares per ride and per driver, $24.53 and $16.57, respectfully.
 
-![Challenge.png]
+![Challenge.png]https://github.com/davidwcampbell/PyBer_Analysis/blob/master/analysis/Challenge.png
 
 ## Challenges
 This analysis was very challenging. Combining and summarizing data from two different data sets took some time and consideration so that the data integrity could be preserved. Many of these challenges could be resolved by using the 'groupby' function. Resampling the data by week was also a challenge as it was a new function that I had not used before. The matplotlib graphing and charting functions also aided in summarizing and visualizing the data.
